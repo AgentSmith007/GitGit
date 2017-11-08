@@ -1,0 +1,5 @@
+<root>
+    <item name='com.vaadin.server.FontAwesome SAVE'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
